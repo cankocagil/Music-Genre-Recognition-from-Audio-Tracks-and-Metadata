@@ -47,6 +47,7 @@ Music Genre Recognition from Audio Tracks and Metadata
 │   ├── fma_small
 ├── notebooks
 ...
+```
 
 We highly recommend the installation of PyTorch and Torchvision beforehand:
 
