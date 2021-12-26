@@ -6,7 +6,7 @@
 
 Automatic recognition of audio tracks from music waves has been a challenging task in Music Information Retrieval (MIR). The mathematical representation of natural music, composed of rhythm, tones, intervals, patterns, and harmonies, is a complex subject for human specialists as there is a geometric interpretation in the humming of the strings and inherent subjective nature. The discrimination of genres from purely audio tracks is stochastic by nature and deeply controversial as the genres share common statistical knowledge. For instance, the musical composition emerges from the intersection of multi-cultural genres, known as fusion genres, e.g., country rock is a fusion of country music and rock music. Contextually, the difficulty level of autonomous discrimination of genres is changing over time. Music trends are changing, making the music genre classification task temporally dynamic and introducing a higher degree of conceptual complexity. For the scope of the project, we designed a computational system of end-to-end learning mechanisms based on classical machine, ensemble and deep learning algorithms for automatic recognition of music genres from Creative Commons licensed audio files, with hand-crafted track-level features.
 
-## Our main study for the scope of the project as follows.
+## Our main study 
     * Metadata-level descriptive data analysis is applied.
     * Then, manifold learning and dimensionality reduction methods are performed on the metadata-level music data.
     * We built an end-to-end discovery machine learning pipelines to classify the music genres based on the metadata.
